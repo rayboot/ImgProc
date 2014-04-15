@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ImgProc</string>
+
+    <!-- Filter names -->
+    <string name="filter_original">Original</string>
+    <string name="filter_instafix">Instafix</string>
+    <string name="filter_ansel">Ansel</string>
+    <string name="filter_testino">Testino</string>
+    <string name="filter_xpro">XPro</string>
+    <string name="filter_bw">Black &amp; White</string>
+    <string name="filter_sepia">Sepia</string>
+    <string name="filter_cyano">Cyano</string>
+    <string name="filter_retro">Retro</string>
+    <string name="filter_georgia">Georgia</string>
+    <string name="filter_sahara">Sahara</string>
+    <string name="filter_hdr">HDR</string>
+
+    <!-- Edit actions -->
+    <string name="edit_action_flip">Flip</string>
+    <string name="edit_action_rotate_90_right">Rotate 90° Right</string>
+    <string name="edit_action_rotate_90_left">Rotate 90° Left</string>
+    <string name="edit_action_rotate_180">Rotate 180°</string>
+
+    <string name="photo_effects">Effects</string>
+    <string name="photo_caption">Caption</string>
+    <string name="photo_rotate">Rotate</string>
+    <string name="photo_crop">Crop</string>
+    <string name="photo_reset">Reset</string>
+    <string name="photo_place">Place</string>
+
+    <string name="tag_no_name">Who\'s this?</string>
+    <string name="detecting_faces">Detecting Faces</string>
+</resources>
